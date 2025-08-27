@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrobatista2024&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrobatista2024&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrobatista2024&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&hide_border=false" />
 
