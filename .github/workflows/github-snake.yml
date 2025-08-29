@@ -14,6 +14,4 @@ jobs:
       - uses: Platane/snk@v2
         with:
           github_user_name: Pedrobatista2024
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
+          outputs: dist/github-snake.svg
