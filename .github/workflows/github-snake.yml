@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Gerar Snake
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Generate a Snake Game
+    name: Gerar um jogo de cobra
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
